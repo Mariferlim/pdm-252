@@ -2,4 +2,4 @@ Completar o código definido em https://github.com/ricdtaveira/mobdev-parte-01/b
 
 Entregar a avaliação postando o link da atividade-02 no seu github no Google Classroom.
 
-A avaliação pode ser feita em dupla.
+A avaliação pode ser feita em dupla
